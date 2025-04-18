@@ -145,3 +145,20 @@ def aggregate_features(paths, window_size=5):
             path_features.append([mean_x, mean_y, std_x, std_y])
         aggregated_features.append(path_features)
     return aggregated_features
+
+# Function to fetch weather forecast data
+def get_weather_forecast():
+    """
+    Simulate fetching weather forecast data.
+
+    Returns:
+        A dictionary with weather data.
+    """
+    # Example: Return simulated weather data
+    return {
+        "rainfall_mm": np.random.uniform(0, 100),
+        "temperature_c": np.random.uniform(15, 35),
+        "humidity_percent": np.random.uniform(40, 80),
+        "wind_speed_m_s": np.random.uniform(0, 15),
+        "altitude_m": np.random.uniform(1000, 2000)
+    }
