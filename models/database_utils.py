@@ -1,10 +1,10 @@
 id	species	date	location	longitude	latitude	temperature_c	rainfall_mm	humidity_percent	wind_speed_m_s	altitude_m	notes	migration_likelihood
-1	Quelea quelea	2023-01-01	Matendere	-32.30072	-20.72033	47	0.3	55.7	8.9	1087	Observed during morning hours.	
+1	Quelea quelea	2023-01-01	Matendere	-32.30072	-20.72033	47	2.4	55.7	8.9	1087	Observed during morning hours.	
 2	Quelea quelea	2023-10-27	Mukwazi	-32.00989	-20.84601	46.9	10.8	49.7	9.8	1146	Low activity due to high temperatures.	
 3	Quelea quelea	2023-12-15	Masapas	-31.86565	-20.58256	41.2	18.8	37	6.5	660	Observed during morning hours.	
 4	Quelea quelea	2023-02-26	MSaize	-32.06392	-20.24692	46.5	14.6	55.1	8	503	High activity near water bodies.	
 5	Quelea quelea	2023-02-11	MSaize	-32.17619	-20.13646	43.5	2	39.9	2.3	1193	High activity near water bodies.	
-6	Quelea quelea	2023-08-06	Mukwazi	-32.1826	-20.68845	41.3	0.8	48.3	5.7	1142	Low activity due to high temperatures.	
+6	Quelea quelea	2023-08-06	Mukwazi	-32.1826	-20.68845	41.3	3.2	48.3	5.7	1142	Low activity due to high temperatures.	
 7	Quelea quelea	2023-01-05	Savuli	-32.01596	-19.96054	35.8	1.8	42.9	7.9	698	High activity near water bodies.	
 8	Quelea quelea	2023-02-28	Hammond	-32.02076	-20.21528	40.8	10.7	30.5	2.6	890	Observed during morning hours.	
 9	Quelea quelea	2023-08-28	Mukwasine/Impala	-32.31747	-20.48972	38.6	19.9	39.8	3.3	1398	High activity near water bodies.	
