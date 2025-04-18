@@ -1,0 +1,11 @@
+Flask
+numpy
+pandas
+geopandas
+shapely
+folium
+matplotlib
+scikit-learn
+scipy
+bcrypt
+contextily
